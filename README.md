@@ -1,5 +1,6 @@
 
-### Hi there 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello👋!;Welcome+to+my+profile!;Created+by+Backbenchers4u!)
+</p>
 𝐌𝐲 𝐍𝐚𝐦𝐞 𝐈𝐬 𝐁𝐚𝐜𝐤𝐛𝐞𝐧𝐜𝐡𝐞𝐫𝐬𝟒𝐮
 
 I’m currently working on TG Bots.
